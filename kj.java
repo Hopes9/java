@@ -27,34 +27,5 @@ public class kj {
             }
         }
     }
-
-
 }
-//    public static void main(String[] args) {
-//        Scanner scanner = new Scanner(System.in);
-//        while (true) {
-//            System.out.println("1.Моя первая задача.");
-//            System.out.println("2.Моя вторая задача.");
-//            System.out.println("0.Выход.");
-//            System.out.println("Введите номер задачи:");
-//            System.out.print("> ");
-//            int index = scanner.nextInt();
-//            switch (index) {
-//                case 0: {
-//                    break;
-//                }
-//                case 1: {
-//                    myFirstTask();
-//                    break;
-//                }
-//                default: {
-//                    System.out.println("Такой задачи нет!");
-//                    break;
-//                }
-//            }
-//        }
-//    }
-//    private static void myFirstTask() {
-//        System.out.println("myFirstTask");
-//    }
-//}
+
